@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&repeat=false&width=500&lines=Hello+there;I+like+coding+for+fun;Not+much+else+to+say;This+could+be+my+career;I+am+not+sure+though)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&repeat=true&width=500&lines=Hello+there;I+like+coding+for+fun;Not+much+else+to+say;This+could+be+my+career;I+am+not+sure+though)
 
 
 ---
